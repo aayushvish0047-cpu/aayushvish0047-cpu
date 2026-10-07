@@ -10,7 +10,7 @@
   </a>
 </p>
 
-## 🚀 About Me
+##  About Me
 
 - 🎓 2nd-year IT Engineering student at **Atharva College of Engineering**
 - 💻 Building my skills in **full-stack web development, Java, and DSA**
