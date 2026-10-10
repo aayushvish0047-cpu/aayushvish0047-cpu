@@ -1,12 +1,12 @@
 # 👋 Hey, I'm Aayush Vishwakarma
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=IT+Engineering+Student;Full-Stack+Developer+in+Progress;DSA+in+C%2B%2B;Building+Practical+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&height=45&lines=IT+Engineering+Student;Full-Stack+Developer+in+Progress;DSA+in+C%2B%2B;Building+Practical+Projects" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://github.com/aayushvish0047-cpu">
-    <img src="https://komarev.com/ghpvc/?username=aayushvish0047-cpu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+    <img src="https://img.shields.io/badge/Profile%20Views-GitHub-blue?style=flat" alt="Profile views" />
   </a>
 </p>
 
