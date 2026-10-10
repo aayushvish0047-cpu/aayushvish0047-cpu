@@ -68,6 +68,10 @@
 - 🧩 DSA & problem solving in C++
 - 🐳 Docker & full-stack development workflows
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aayushvish0047-cpu/aayushvish0047-cpu/main/assets/developer-activity.svg" alt="Developer activity pixel grid" width="100%" />
+</p>
+
 ## 📊 GitHub Stats
 
 <p align="center">
