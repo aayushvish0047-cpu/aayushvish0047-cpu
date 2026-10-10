@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aayushvish0047-cpu" alt="Profile views counter" />
+![Profile views](https://komarev.com/ghpvc/?username=aayushvish0047-cpu)
 </p>
 
 ##  About Me
