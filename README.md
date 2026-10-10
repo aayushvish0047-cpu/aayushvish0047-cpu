@@ -4,9 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&height=45&lines=IT+Engineering+Student;Full-Stack+Developer+in+Progress;DSA+in+C%2B%2B;Building+Practical+Projects" alt="Typing SVG" />
 </p>
 
-<p align="center">
 ![Profile views](https://komarev.com/ghpvc/?username=aayushvish0047-cpu)
-</p>
 
 ##  About Me
 
