@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aayushvish0047-cpu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=aayushvish0047-cpu&label=Profile+Views&color=0e75b6&style=flat-square&abbreviated=true" alt="Profile views counter" />
 </p>
 
 ##  About Me
