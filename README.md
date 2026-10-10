@@ -4,7 +4,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&height=45&lines=IT+Engineering+Student;Full-Stack+Developer+in+Progress;DSA+in+C%2B%2B;Building+Practical+Projects" alt="Typing SVG" />
 </p>
 
-[![Profile views](https://hits.sh/github.com/aayushvish0047-cpu.svg?label=Profile%20Views&color=0e75b6)](https://hits.sh/github.com/aayushvish0047-cpu/)
+<p align="center">
+  <a href="https://hits.sh/github.com/aayushvish0047-cpu/">
+    <img src="https://hits.sh/github.com/aayushvish0047-cpu.svg?label=Profile%20Views&color=0e75b6" alt="Profile views" />
+  </a>
+</p>
 
 ##  About Me
 
