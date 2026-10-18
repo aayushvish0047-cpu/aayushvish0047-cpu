@@ -68,31 +68,8 @@
 - 🧩 DSA & problem solving in C++
 - 🐳 Docker & full-stack development workflows
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aayushvish0047-cpu/aayushvish0047-cpu/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aayushvish0047-cpu/aayushvish0047-cpu/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/aayushvish0047-cpu/aayushvish0047-cpu/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=aayushvish0047-cpu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushvish0047-cpu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=aayushvish0047-cpu&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aayushvish0047-cpu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies" />
 </p>
 
 ## 🎯 My Focus
