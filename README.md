@@ -68,7 +68,7 @@
 - 🧩 DSA & problem solving in C++
 - 🐳 Docker & full-stack development workflows
 
-## 🎯 My Focus
+##  My Focus
 
 > **Learn → Build → Break → Debug → Improve → Repeat.**
 
