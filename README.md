@@ -83,7 +83,6 @@ I'm focused on becoming a stronger developer by consistently building projects, 
 </p>
 
 ---
-
 <p align="center">
   <b>Thanks for visiting my profile! ⭐</b>
 </p>
